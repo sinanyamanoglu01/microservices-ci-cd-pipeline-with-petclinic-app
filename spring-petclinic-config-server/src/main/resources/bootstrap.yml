@@ -5,6 +5,7 @@ spring:
       server:
         git:
           uri: https://github.com/clarusway/petclinic-microservices.git
+          default-label: main
 ---
 spring:
   profiles: local
