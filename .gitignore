@@ -16,3 +16,7 @@ target/
 
 # Branch switching
 generated/
+
+#VS Code
+.factorypath
+.project
