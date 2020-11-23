@@ -4,8 +4,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/clarusway/petclinic-microservices.git
-          default-label: main
+          uri: https://github.com/clarusway/petclinic-microservices-configs.git
 ---
 spring:
   profiles: local
